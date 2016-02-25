@@ -1,0 +1,11 @@
+**/*.cmake
+**/*.kdev*
+**/CMakeCache.txt
+**/CMakeFiles
+**/Makefile
+
+cppconn/config.h
+cppconn/version_info.h
+driver/nativeapi/binding_config.h
+driver/version_info.h
+
